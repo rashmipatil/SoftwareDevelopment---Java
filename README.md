@@ -1,4 +1,0 @@
-SoftwareDevelopment---Java
-==========================
-
-University Project 
